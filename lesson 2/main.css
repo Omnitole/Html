@@ -92,7 +92,7 @@
 
 }
 .cards_card{
-    padding-right: 5px;
+    border-radius: 5px;
     display: flex;
     align-items: center;
     width:49%;
